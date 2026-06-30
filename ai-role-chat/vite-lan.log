@@ -1,0 +1,9 @@
+
+  [32m[1mVITE[22m v8.1.0[39m  [2mready in [0m[1m649[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.5:[1m5175[22m/[39m
+[2m17:16:00[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m17:16:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m17:16:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because lockfile has changed
+[2m17:16:01[22m [36m[1m[vite][22m[39m server restarted.
+[2m17:16:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [optimizer] bundling dependencies...
